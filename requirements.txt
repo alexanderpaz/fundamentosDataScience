@@ -10,3 +10,4 @@ pillow
 sqlalchemy
 pymongo
 mongoengine
+ipytest
